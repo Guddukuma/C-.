@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\python"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*html": "html",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
